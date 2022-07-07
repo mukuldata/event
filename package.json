@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "ajax": "^0.0.4",
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "mysql2": "^2.3.3",
+    "node": "^18.4.0",
+    "session": "^0.1.0"
+  },
+  "name": "event-managment",
+  "description": "A Web Application for managing events created using NodeJS, ExpressJS and MySQL",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "event-finder"
+  },
+  "author": "Harsh",
+  "license": "ISC"
+}
